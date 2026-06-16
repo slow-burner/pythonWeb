@@ -1,5 +1,5 @@
 import streamlit as st
-improt pandas 
+import pandas 
 
 st.tiltle("파이썬 페이지 구축")
 
