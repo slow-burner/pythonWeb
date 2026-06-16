@@ -12,5 +12,5 @@ df = pd.read_csv(uploaded_file)
 
 st.success("파일 업로드 성공")
 
-st.datframe(df)
+st.dataframe(df)
 
