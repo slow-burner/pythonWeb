@@ -5,7 +5,7 @@ st.title("파이썬 페이지 구축")
 
 st.write("파이썬 웹 사이트 성공!")
 
-uploaded_file = st.file_uploader("파일첨부",type=[csv'])
+uploaded_file = st.file_uploader("파일첨부",type=['csv'])
 st.text_input("텍스트를 입력하세요")
 
 # df = pd.read_csv(r"C:\Users\party\OneDrive\바탕 화면\SQL\books.csv")
